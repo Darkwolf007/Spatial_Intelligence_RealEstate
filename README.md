@@ -1,6 +1,8 @@
 # Geodashboard
 
-A React + FastAPI geospatial dashboard for interactive housing and amenities analysis.
+Slide Deck - https://docs.google.com/presentation/d/1xl6Ve10ep0ORRb5hvyejPsndGgSSnors-v5Vzyjrtzc/edit?usp=sharing
+
+A geospatial dashboard for interactive housing and amenities analysis plugged with prediction model.
 
 ## Features
 - Interactive map with selectable areas (Google Maps)
