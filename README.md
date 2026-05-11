@@ -1,4 +1,4 @@
-# Geodashboard
+# Spatial Intelligence in Realestate - Minor in AI Project
 
 Slide Deck - https://docs.google.com/presentation/d/1xl6Ve10ep0ORRb5hvyejPsndGgSSnors-v5Vzyjrtzc/edit?usp=sharing
 
