@@ -4,6 +4,8 @@ Slide Deck - https://docs.google.com/presentation/d/1xl6Ve10ep0ORRb5hvyejPsndGgS
 
 A geospatial dashboard for interactive housing and amenities analysis plugged with prediction model.
 
+![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/Darkwolf007/Spatial_Intelligence_RealEstate/blob/8623cdcd34488497255e4fe433b4b9ed91d8efc2/DEMO.gif))
+
 ## Features
 - Interactive map with selectable areas (Google Maps)
 - Dynamic amenities sidebar (drag-and-drop)
